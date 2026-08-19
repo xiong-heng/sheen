@@ -1,0 +1,5 @@
+{
+    "cron": "0 8 * * *",
+    "skill": "query_time",
+    "name": "daily_morning_report"
+}
