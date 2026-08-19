@@ -29,7 +29,7 @@ python --version
 ### 第二步：下载项目
 
 ```bash
-git clone https://github.com/你的用户名/sheen.git
+git clone https://github.com/xiong-heng/sheen.git
 cd sheen
 ```
 
